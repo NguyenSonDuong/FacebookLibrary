@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookLibrary", "FacebookLibrary\FacebookLibrary.csproj", "{DB5DE962-7A50-4D28-8F34-7042AE6BDE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAPI", "TestAPI\TestAPI.csproj", "{7C0E09FD-457B-4E41-8E04-0FA33B159C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5DE962-7A50-4D28-8F34-7042AE6BDE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5DE962-7A50-4D28-8F34-7042AE6BDE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5DE962-7A50-4D28-8F34-7042AE6BDE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5DE962-7A50-4D28-8F34-7042AE6BDE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0E09FD-457B-4E41-8E04-0FA33B159C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0E09FD-457B-4E41-8E04-0FA33B159C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0E09FD-457B-4E41-8E04-0FA33B159C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0E09FD-457B-4E41-8E04-0FA33B159C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56827508-44AC-4851-9B4E-CEA61839EB35}
+	EndGlobalSection
+EndGlobal
