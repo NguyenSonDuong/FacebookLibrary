@@ -15,7 +15,7 @@ namespace FacebookLibrary.controller
         private String cookie;
         private String useragent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36";
         public RequestData RequestData { get => requestData; set => requestData = value; }
-        public string Cookie { get => cookie; set => cookie = value; }
+        public string Cookie { get => cookie; set => cookie = value; }  
 
         public API(bool isSaveCookie = true)
         {
